@@ -4,8 +4,9 @@
 
 </div>
 
-<div class="copyright"><a href="http://www.pulu.org/">Lassi Heikkinen</a> <? echo date(Y); ?></div>
+<div class="copyright"><a href="https://lassi.pulu.org/">Lassi Heikkinen</a>, 2007-<? echo date(Y); ?></div>
 
 </body>
 
 </html>
+
