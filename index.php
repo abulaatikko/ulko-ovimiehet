@@ -10,6 +10,9 @@ lajit suoritetaan oluenjuonnin siivitt‰m‰n‰. Lajeista jaetaan pisteit‰ ja p‰iv‰n
 
 <h3>Uutiset</h3>
 
+<h4>14.9.2017</h4>
+<p>Kohta r‰j‰ht‰‰.</p>
+
 <h4>22.9.2007</h4>
 <p>Ulko-ovimiehet 2007 pidettiin 22.9.2007 Merikarvialla. Osallistujina olivat Abula, Tisk, Hermu, Orcc, AndyH, vender.
 <a href="tulokset-2007.txt">Tulokset</a>,
