@@ -29,7 +29,8 @@ a:active {color: #000; font-weight: bold; text-decoration: underline;}
 a:hover {color: #000; font-weight: bold; text-decoration: none;}
 
 p   {margin: 10px 0px 20px 0px;
-    font-size: 120%;}
+    font-size: 120%;
+    line-height: 1.6;}
 
     
 #navcontainer ul {
