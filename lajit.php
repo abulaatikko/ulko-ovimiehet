@@ -1,6 +1,6 @@
 <? include('inc/head.php'); ?>
 
-<h2>LAJIT</h2>
+<h2>LAJIT 2007</h2>
 
 <h3>Yleist‰</h3>
 <p>T‰ll‰ sivulla esitell‰‰n kaikki kilpailussa olleet lajit kautta aikojen.  Vuonna 2007 mentiin 

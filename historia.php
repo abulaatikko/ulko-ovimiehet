@@ -10,6 +10,8 @@ stressiä. He ovat myös filmanneet dokumentin, <i>Blog, Sweat & Beers</i>, yhdest
 sen ja innostuneena esitteli konseptin Abulalle, joka myös oli vakuuttunut tapahtuman hauskuudesta. Tästä alkoi oman
 porukan kasaaminen ja ensimmäisen <i>Ulko-ovimiehet</i> -tapahtuman järjestely.</p>
 
+<h3>2017</h3>
+<p>Toinen tapahtuma järjestettiin 07.10.2017 Alastarossa, Loimaalla. Miehiä oli kahdeksan: Heikki, Jarkko, Juha, Lassi, Markku, Sauli, Tero ja Ville. Ylivoimaiseksi voittajaksi kruunattiin Lassi ja muut mitalit menivät Markulle ja Heikille.</p>
 
 <h3>2007</h3>
 <p>Ensimmäinen Ulko-ovimiehet -tapahtuma järjestettiin 22.9.2007 Merikarvialla Tiskin mökillä. Miehiä oli kokoontunut
