@@ -2,168 +2,168 @@
 
 <h2>LAJIT 2007</h2>
 
-<h3>Yleistä</h3>
-<p>Tällä sivulla esitellään kaikki kilpailussa olleet lajit kautta aikojen.  Vuonna 2007 mentiin 
+<h3>YleistÃ¤</h3>
+<p>TÃ¤llÃ¤ sivulla esitellÃ¤Ã¤n kaikki kilpailussa olleet lajit kautta aikojen.  Vuonna 2007 mentiin 
 kahdellatoista (12) oluella per kisailija.</p>
 
-<p>Joukkueet arvotaan paikan päällä. Joukkueiden suoritusjärjestys kiertää.</p>
+<p>Joukkueet arvotaan paikan pÃ¤Ã¤llÃ¤. Joukkueiden suoritusjÃ¤rjestys kiertÃ¤Ã¤.</p>
 
-<p>Yksilölajeissa joukkuiden yhteistulos lasketaan miesten sijotusten perusteella, eikä 
-yhteisaikojen. Jos sijotusten jälkeen joukkueet ovat tasapisteissä, niin paras tulos
+<p>YksilÃ¶lajeissa joukkuiden yhteistulos lasketaan miesten sijotusten perusteella, eikÃ¤ 
+yhteisaikojen. Jos sijotusten jÃ¤lkeen joukkueet ovat tasapisteissÃ¤, niin paras tulos
 ratkaisee.</p>
 
 
 <h3>Lajilista</h3>
-<p>Suluissa on juotavien oluiden määrä per kilpailija ja tarvittavat varusteet.</p>
+<p>Suluissa on juotavien oluiden mÃ¤Ã¤rÃ¤ per kilpailija ja tarvittavat varusteet.</p>
 
 
 <h4>1. Ensipuraisu (2)</h4>
-<p>Välittömästi heräämisen jälkeen on ensimmäinen laji. Joukkueen molempien jäsenten tulee juoda 
-kaksi (2) olutta mahdollisimman nopeasti. Koska oluen pitää myös pysyä vatsassa, niin on suositeltavaa
-olla hankkimatta krapulaa edellisenä iltana. Aika ratkaisee.</p>
+<p>VÃ¤littÃ¶mÃ¤sti herÃ¤Ã¤misen jÃ¤lkeen on ensimmÃ¤inen laji. Joukkueen molempien jÃ¤senten tulee juoda 
+kaksi (2) olutta mahdollisimman nopeasti. Koska oluen pitÃ¤Ã¤ myÃ¶s pysyÃ¤ vatsassa, niin on suositeltavaa
+olla hankkimatta krapulaa edellisenÃ¤ iltana. Aika ratkaisee.</p>
 
 
 <h4>2. Munkkihotkaisu</h4>
-<p>Suurisuisten bravuurilaji, missä ensin tungetaan munkki kokonaan suuhun ja sitten niellään se
-mahdollisimman nopeasti. Hyväksytyn suorituksen merkki on kilpailijan vihellys.</p>
+<p>Suurisuisten bravuurilaji, missÃ¤ ensin tungetaan munkki kokonaan suuhun ja sitten niellÃ¤Ã¤n se
+mahdollisimman nopeasti. HyvÃ¤ksytyn suorituksen merkki on kilpailijan vihellys.</p>
 
 <p>Tarvittavat varusteet: munkkeja</p>
 
 
 <h4>3. Soutu</h4>
-<p>Jokainen joukkue käy vuorollaan soutamassa määrätyn reitin lähivesistössä. Aika ratkaisee.</p>
+<p>Jokainen joukkue kÃ¤y vuorollaan soutamassa mÃ¤Ã¤rÃ¤tyn reitin lÃ¤hivesistÃ¶ssÃ¤. Aika ratkaisee.</p>
 
 <p>Tarvittavat varusteet: vene, airot</p>
 
 
 <h4>4. Olut kannonkolossa (1)</h4>
-<p>Tällä kertaa kaksi olutta on piilotettu metsän siimekseen, rajatulle alueelle, mistä 
-joukkueen pitää ne mahdollisimman nopeasti löytää ja juoda pois. Edellinen joukkue piilottaa 
+<p>TÃ¤llÃ¤ kertaa kaksi olutta on piilotettu metsÃ¤n siimekseen, rajatulle alueelle, mistÃ¤ 
+joukkueen pitÃ¤Ã¤ ne mahdollisimman nopeasti lÃ¶ytÃ¤Ã¤ ja juoda pois. Edellinen joukkue piilottaa 
 seuraavan joukkueen oluet. Aika ratkaisee.</p>
 
-<p>Tarvittavat varusteet: rajausväline kuten köysi</p>
+<p>Tarvittavat varusteet: rajausvÃ¤line kuten kÃ¶ysi</p>
 
 
 <h4>5. Renkaan raahaus (1)</h4>
-<p>Autonrengas kiinnitetään köyteen ja rengasta pitää raahata perässään pitäen köydestä tietystä 
-kohtaa kiinni tietty matka. Puolivälissä olut. Aika ratkaisee.</p>
+<p>Autonrengas kiinnitetÃ¤Ã¤n kÃ¶yteen ja rengasta pitÃ¤Ã¤ raahata perÃ¤ssÃ¤Ã¤n pitÃ¤en kÃ¶ydestÃ¤ tietystÃ¤ 
+kohtaa kiinni tietty matka. PuolivÃ¤lissÃ¤ olut. Aika ratkaisee.</p>
 
-<p>Tarvittavat varusteet: rengas, köysi</p>
+<p>Tarvittavat varusteet: rengas, kÃ¶ysi</p>
 
 
 <h4>6. Renkaan heitto</h4>
-<p>Heitetään autonrengasta. Heittomatkan pituus ratkaisee.</p>
+<p>HeitetÃ¤Ã¤n autonrengasta. Heittomatkan pituus ratkaisee.</p>
 
 <p>Tarvittavat varusteet: rengas</p>
 
 
 <h4>7. Intervallijuoksu (1)</h4>
-<p>Kaikkien rakastamaa intervallijuoksua oluen kera. Juostaan 5m päähän, takaisin, 10m päähän,
-takaisin, 15m päähän, takaisin, oluen juonti ja sitten pari tekee saman. Yhteisaika ratkaisee.</p>
+<p>Kaikkien rakastamaa intervallijuoksua oluen kera. Juostaan 5m pÃ¤Ã¤hÃ¤n, takaisin, 10m pÃ¤Ã¤hÃ¤n,
+takaisin, 15m pÃ¤Ã¤hÃ¤n, takaisin, oluen juonti ja sitten pari tekee saman. Yhteisaika ratkaisee.</p>
 
 
 <h4>8. Pomputtelu</h4>
-<p>Jalkapallolla pomputtelua. Jokainen saa kolme yritystä, mistä paras tulos huomioidaan.
-Rikkoessaan sadan rajan, kilpailija on saavuttanut enimmäismäärän ja voi lopettaa pomputtelun.</p>
+<p>Jalkapallolla pomputtelua. Jokainen saa kolme yritystÃ¤, mistÃ¤ paras tulos huomioidaan.
+Rikkoessaan sadan rajan, kilpailija on saavuttanut enimmÃ¤ismÃ¤Ã¤rÃ¤n ja voi lopettaa pomputtelun.</p>
 
 <p>Tarvittavat varusteet: jalkapallo</p>
 
 
 <h4>9. Jalkapalloturnaus</h4>
-<p>Jalkapalloturnaus. Jokainen joukkue pelaa jokaista joukkuetta vastaan. 2 maalia, 3 minuutin erät,
-puoltenvaihto puolivälissä. Voittajalle 1 piste, häviäjälle 0. Ajan loppumisen jälkeen 
-tasapelitilanteessa jatkoaika pelataan äkkikuolemalla.</p>
+<p>Jalkapalloturnaus. Jokainen joukkue pelaa jokaista joukkuetta vastaan. 2 maalia, 3 minuutin erÃ¤t,
+puoltenvaihto puolivÃ¤lissÃ¤. Voittajalle 1 piste, hÃ¤viÃ¤jÃ¤lle 0. Ajan loppumisen jÃ¤lkeen 
+tasapelitilanteessa jatkoaika pelataan Ã¤kkikuolemalla.</p>
 
 <p>Tarvittavat varusteet: jalkapallo</p>
 
 
 <h4>10. Hikikankaankierros (2)</h4>
-<p>Juuri sopivasti ennen lounastaukoa kisailijoiden pitää pyrähtää reilumpi juoksumatka (n. 3km). 
-Lähtöpaikassa ja puolivälissä on molemmissa odottamassa yksi (1) huurteinen (tosin oluen 
-huurteisuutta emme pysty takaamaan) olut. Tässäkin lajissa aika ratkaisee. Juostaan kahdessa 
-ryhmässä, että riittää ihmisiä ajanottoon ja valvomaan, että kaikki kiertävät koko Hikikankaan
+<p>Juuri sopivasti ennen lounastaukoa kisailijoiden pitÃ¤Ã¤ pyrÃ¤htÃ¤Ã¤ reilumpi juoksumatka (n. 3km). 
+LÃ¤htÃ¶paikassa ja puolivÃ¤lissÃ¤ on molemmissa odottamassa yksi (1) huurteinen (tosin oluen 
+huurteisuutta emme pysty takaamaan) olut. TÃ¤ssÃ¤kin lajissa aika ratkaisee. Juostaan kahdessa 
+ryhmÃ¤ssÃ¤, ettÃ¤ riittÃ¤Ã¤ ihmisiÃ¤ ajanottoon ja valvomaan, ettÃ¤ kaikki kiertÃ¤vÃ¤t koko Hikikankaan
 ja juovat oluet.</p>
 
 
 <h4>Lounas</h4>
-<p>Jokainen huolehtikoon itsensä ruokkimisesta. Grilli on kuumana. Taukoa tunti pari samassa yhteydessä.</p>
+<p>Jokainen huolehtikoon itsensÃ¤ ruokkimisesta. Grilli on kuumana. Taukoa tunti pari samassa yhteydessÃ¤.</p>
 
 
-<h4>11. Mölökky</h4>
-<p>Ruuan päälle otetaan vähän kevyemmin ja pelataan mölökkyä, joukkueen jäsenet heittävät
-vuorotellen. Pelin säännöt niitä tuntemattomille selviävät paikan päällä.</p>
+<h4>11. MÃ¶lÃ¶kky</h4>
+<p>Ruuan pÃ¤Ã¤lle otetaan vÃ¤hÃ¤n kevyemmin ja pelataan mÃ¶lÃ¶kkyÃ¤, joukkueen jÃ¤senet heittÃ¤vÃ¤t
+vuorotellen. Pelin sÃ¤Ã¤nnÃ¶t niitÃ¤ tuntemattomille selviÃ¤vÃ¤t paikan pÃ¤Ã¤llÃ¤.</p>
 
-<p>Tarvittavat varusteet: mölkkysetti</p>
+<p>Tarvittavat varusteet: mÃ¶lkkysetti</p>
 
 
-<h4>12. Reppuselkä (1)</h4>
-<p>Laji, missä kisaajien elomassan hajonnan pienuus on etu, on myöskin rip-off. Kumpikin joukkueen 
-jäsen kantaa vuorollaan toista reppuselässään käyden kiertämässä 30m päässä olevan merkin ja tullen
-takaisin, minkä jälkeen vaihdetaan rooleja. Kannettavana olevan tulee juoda yksi olut sinä aikana
-kun häntä kannetaan. Matka ei ole pitkä, mutta sitäkin kivisempi... Aika ratkaisee.</p>
+<h4>12. ReppuselkÃ¤ (1)</h4>
+<p>Laji, missÃ¤ kisaajien elomassan hajonnan pienuus on etu, on myÃ¶skin rip-off. Kumpikin joukkueen 
+jÃ¤sen kantaa vuorollaan toista reppuselÃ¤ssÃ¤Ã¤n kÃ¤yden kiertÃ¤mÃ¤ssÃ¤ 30m pÃ¤Ã¤ssÃ¤ olevan merkin ja tullen
+takaisin, minkÃ¤ jÃ¤lkeen vaihdetaan rooleja. Kannettavana olevan tulee juoda yksi olut sinÃ¤ aikana
+kun hÃ¤ntÃ¤ kannetaan. Matka ei ole pitkÃ¤, mutta sitÃ¤kin kivisempi... Aika ratkaisee.</p>
 
 
 <h4>13. Sokean miehen olut (2)</h4>
-<p>Erittäin viihdyttävä laji, sokean miehen olut, on suora kopio esikuviltamme, missä joukkueen
-tulee löytää silmät peitettynä köydellä rajatulta pyöreältä alueelta neljä (4) olutta ja juoda ne,
-kaksi (2) kumpikin. Oluet saa juoda ja siteen poistaa, kun kaikki oluet on löydetty. Aika ratkaisee.</p>
+<p>ErittÃ¤in viihdyttÃ¤vÃ¤ laji, sokean miehen olut, on suora kopio esikuviltamme, missÃ¤ joukkueen
+tulee lÃ¶ytÃ¤Ã¤ silmÃ¤t peitettynÃ¤ kÃ¶ydellÃ¤ rajatulta pyÃ¶reÃ¤ltÃ¤ alueelta neljÃ¤ (4) olutta ja juoda ne,
+kaksi (2) kumpikin. Oluet saa juoda ja siteen poistaa, kun kaikki oluet on lÃ¶ydetty. Aika ratkaisee.</p>
 
-<p>Tarvittavat varusteet: köysi alueen rajaamiseen, sokaisuvälineet kuten pipot</p>
+<p>Tarvittavat varusteet: kÃ¶ysi alueen rajaamiseen, sokaisuvÃ¤lineet kuten pipot</p>
 
 
 <h4>14. Munaus</h4>
-<p>Joukkueelle annetaan yksi (1) kananmuna, joka tulee heittää särkemättä munaa mahdollisimman 
-pitkälle. Eräs tapa tähän on määrätä heittäminen vain toiselle jolloin toinen voi yrittää ottaa
-munan vastaan käsillä. Jokainen joukkue heittää saman matkan ja etäisyyttä pidennetään joka heiton 
-jälkeen metrillä. (Munan) pituus ratkaisee.</p>
+<p>Joukkueelle annetaan yksi (1) kananmuna, joka tulee heittÃ¤Ã¤ sÃ¤rkemÃ¤ttÃ¤ munaa mahdollisimman 
+pitkÃ¤lle. ErÃ¤s tapa tÃ¤hÃ¤n on mÃ¤Ã¤rÃ¤tÃ¤ heittÃ¤minen vain toiselle jolloin toinen voi yrittÃ¤Ã¤ ottaa
+munan vastaan kÃ¤sillÃ¤. Jokainen joukkue heittÃ¤Ã¤ saman matkan ja etÃ¤isyyttÃ¤ pidennetÃ¤Ã¤n joka heiton 
+jÃ¤lkeen metrillÃ¤. (Munan) pituus ratkaisee.</p>
 
 <p>Tarvittavat varusteet: kananmunia</p>
 
 
-<h4>15. Köydenveto</h4>
-<p>Suosittelemme hanskoja tähän jaloon lajiin, millä mitataan rukiin määrä hauiksessa. Jokainen 
-joukkue vetää kaikkia muita joukkueita vastaan. Voittojen määrä ratkaisee. Laitetaan 2 merkkiä 5m 
-etäisyydelle toisistaan, liina köydessä keskellä alussa, liinan ohittaessa toinen merkki, voittaja selviää.</p>
+<h4>15. KÃ¶ydenveto</h4>
+<p>Suosittelemme hanskoja tÃ¤hÃ¤n jaloon lajiin, millÃ¤ mitataan rukiin mÃ¤Ã¤rÃ¤ hauiksessa. Jokainen 
+joukkue vetÃ¤Ã¤ kaikkia muita joukkueita vastaan. Voittojen mÃ¤Ã¤rÃ¤ ratkaisee. Laitetaan 2 merkkiÃ¤ 5m 
+etÃ¤isyydelle toisistaan, liina kÃ¶ydessÃ¤ keskellÃ¤ alussa, liinan ohittaessa toinen merkki, voittaja selviÃ¤Ã¤.</p>
 
-<p>Tarvittavat varusteet: köysi, hanskat</p>
+<p>Tarvittavat varusteet: kÃ¶ysi, hanskat</p>
 
 
 <h4>16. Kolmijalka (1)</h4>
-<p>Sidomme joukkueen jäseniltä kaksi jalkaa yhteen. Tämän jälkeen he etenevät haluamallaan tavalla
-mahdollisimman nopeasti määrätyn matkan juoden myös oluet samalla. Aika ratkaisee.</p>
+<p>Sidomme joukkueen jÃ¤seniltÃ¤ kaksi jalkaa yhteen. TÃ¤mÃ¤n jÃ¤lkeen he etenevÃ¤t haluamallaan tavalla
+mahdollisimman nopeasti mÃ¤Ã¤rÃ¤tyn matkan juoden myÃ¶s oluet samalla. Aika ratkaisee.</p>
 
-<p>Tarvittavat varusteet: köysi</p>
+<p>Tarvittavat varusteet: kÃ¶ysi</p>
 
 
 <h4>17. Tarkkapallo</h4>
-<p>Ota pallo, osu kohteeseen. Siirry seuraavalle etäisyydelle. Viimeinen etäisyys, mistä saa
+<p>Ota pallo, osu kohteeseen. Siirry seuraavalle etÃ¤isyydelle. Viimeinen etÃ¤isyys, mistÃ¤ saa
 osuman kuudella (3+3) heitolla on joukkueen tulos.</p>
 
 <p>Tarvittavat varusteet: tennispallo</p>
 
 
 <h4>18. Obelix</h4>
-<p>Kivenkannossa mitataan raakaa voimaa ja juoksunopeutta. Tässä tosimiesten lajissa ei narukädet
-pärjää! Aika ratkaisee.</p>
+<p>Kivenkannossa mitataan raakaa voimaa ja juoksunopeutta. TÃ¤ssÃ¤ tosimiesten lajissa ei narukÃ¤det
+pÃ¤rjÃ¤Ã¤! Aika ratkaisee.</p>
 
 <p>Tarvittavat varusteet: kivi</p>
 
 
 <h4>19. Viimeinen voitelu (1)</h4>
-<p>Jälleen on kilpailijaraasujen avattava kurkkunsa jumalten juomalle ja kulautettava mahdollisimman
+<p>JÃ¤lleen on kilpailijaraasujen avattava kurkkunsa jumalten juomalle ja kulautettava mahdollisimman
 nopeasti viimeiset kisaoluet kitusiinsa.</p>
 
 
-<h3>Hylätyt lajit ja syyt</h3>
+<h3>HylÃ¤tyt lajit ja syyt</h3>
 
-<h4>Päässälasku</h4>
-<p>Äijiähän tässä piti olla!</p>
+<h4>PÃ¤Ã¤ssÃ¤lasku</h4>
+<p>Ã„ijiÃ¤hÃ¤n tÃ¤ssÃ¤ piti olla!</p>
 
 <h4>Saunacontest</h4>
-<p>Vaikea järjestää tasapuolisesti. Vaarallinen.</p>
+<p>Vaikea jÃ¤rjestÃ¤Ã¤ tasapuolisesti. Vaarallinen.</p>
 
-<h4>Juustohampurilaisten syöntikisa</h4>
-<p>Hampurilaiset ehtivät nuhjaantua yön aikana. Kukaan ei tykkää näistä enää. Paska perinne.</p>
+<h4>Juustohampurilaisten syÃ¶ntikisa</h4>
+<p>Hampurilaiset ehtivÃ¤t nuhjaantua yÃ¶n aikana. Kukaan ei tykkÃ¤Ã¤ nÃ¤istÃ¤ enÃ¤Ã¤. Paska perinne.</p>
 
 <h4>Limbous</h4>
 <p>Vaikea laskea rimaa/narua kaikille aina saman verran.</p>

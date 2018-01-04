@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<title>Ulko-ovimiehet</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="author" content="Lassi Heikkinen" />
 	<meta http-equiv="pragma" content="no-cache" />
 	<meta http-equiv="expires" content="-1" />
