@@ -12,7 +12,7 @@ siivittämänä. Lajeista jaetaan pisteitä ja päivän lopuksi kruunataan voitt
 
 <h4>09.10.2017</h4>
 <p>Ulko-oviadin pyörähdettyä oli aika järjestää kisat vol. 2. Alastarolla oli 7.10. kisaamassa Heikki, Jarkko, Juha, Lassi, Markku, Sauli, Tero ja Ville.
-<a href="tulokset-2017.txt">Tulokset</a></p>
+<a href="tulokset-2017.txt">Tulokset</a>, <a href="media/2017">kuvat</a></p>
 
 <h4>14.09.2017</h4>
 <p>Kohta räjähtää.</p>

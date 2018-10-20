@@ -2,6 +2,8 @@
 
 <h2>LAJIT 2007</h2>
 
+<p><em style="color: blue">Vuoden 2017 lajit näkee tuloksista.</em></p>
+
 <h3>Yleistä</h3>
 <p>Tällä sivulla esitellään kaikki kilpailussa olleet lajit kautta aikojen.  Vuonna 2007 mentiin 
 kahdellatoista (12) oluella per kisailija.</p>

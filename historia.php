@@ -4,7 +4,7 @@
 
 <h3>Idea</h3>
 <p>Alkuperäinen idea on kopioitu yhdysvaltalaiselta 
-<a href="http://www.blogsweatandbeers.com/">The Outdoorsmen</a> äijäporukalta, jotka ovat jo vuosien ajan kokoontuneet
+<a href="https://web.archive.org/web/20080220003033/http://www.blogsweatandbeers.com/">The Outdoorsmen</a> äijäporukalta, jotka ovat jo vuosien ajan kokoontuneet
 jonnekin metsään kisailemaan oluen voimin. Ainakin sinä viikonloppuna päästään karkuun hirmuisia vaimoja ja kaupungien
 stressiä. He ovat myös filmanneet dokumentin, <i>Blog, Sweat & Beers</i>, yhdestä tapahtumastaan. Tisk sattui näkemään
 sen ja innostuneena esitteli konseptin Abulalle, joka myös oli vakuuttunut tapahtuman hauskuudesta. Tästä alkoi oman
